@@ -20,8 +20,9 @@ The website receive the data of your Transactions, they can be deposits or withd
 - **HTML 📂**
 - **CSS 📂**
 - **React Js ⚛️**
+- - **Javascript ⚛️**
 - **TypeScript ✏️**
-- **Javascript ⚛️**
+
 
 
 ## Getting started
