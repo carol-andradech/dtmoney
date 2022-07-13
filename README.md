@@ -1,14 +1,14 @@
 <h1 align="center">
 <br>
- <img src ="readme_files/favicon.png" width="120">
+ <img src ="readme_files/favicon.png" width="60">
 <br>
 <br>
 Dt Money
 </h1>
 
 <div align="center">
-  <img src="readme_files/1.png" >
-  <img src="readme_files/2.png" >
+  <img src="readme_files/1.jpg" >
+  <img src="readme_files/2.jpg" >
 
 ## About Dt Money
 This website was designed to help track of your finances.
