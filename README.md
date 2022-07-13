@@ -7,8 +7,8 @@ Dt Money
 </h1>
 
 <div align="center">
-  <img src="readme_files/1.jpg  height="425" >
-  <img src="readme_files/2.jpg  height="425" >
+  <img src="readme_files/1.jpg"  height="425" >
+  <img src="readme_files/2.jpg"  height="425" >
 </div>
 
 ## About Dt Money
