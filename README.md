@@ -17,11 +17,12 @@ The website receive the data of your Transactions, they can be deposits or withd
 
 
 ## Components
+- **HTML 📂**
+- **CSS 📂**
 - **React Js ⚛️**
 - **TypeScript ✏️**
 - **Javascript ⚛️**
-- **HTML 📂**
-- **CSS 📂**
+
 
 ## Getting started
 1. Open terminal on src folder <br/>
