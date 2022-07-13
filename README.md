@@ -9,10 +9,11 @@ Dt Money
 <div align="center">
   <img src="readme_files/1.jpg" >
   <img src="readme_files/2.jpg" >
+</div>
 
 ## About Dt Money
-This website was designed to help track of your finances.
-Receive the data of your Transactions, they can be deposits or withdraws, and the details of those, the title of the Transactions, the category and the date as well.
+This website was designed to help keep track of your finances.
+The website receive the data of your Transactions, they can be deposits or withdraws, and the details of those, the title of the Transactions, the category and the date as well. And calculates the totals.
 
 
 ## Components
