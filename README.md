@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-![favicon](https://user-images.githubusercontent.com/78247893/178814221-ff2e968d-f80a-42e0-b21f-395339e7c144.png)
+ <img src ="![favicon](https://user-images.githubusercontent.com/78247893/178814462-0de53605-8e81-4c3b-ae04-991da99aaf45.png)" </img>
 <br>
 Dt Money
 <br>
